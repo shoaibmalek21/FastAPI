@@ -7,5 +7,7 @@
 
 > run uvicorn main:app --reload
 
-For testing,
-- Endpoint : LOCALHOST/items/{item_id}
+For testing endpoints,
+> LOCALHOST/items/{item_id}
+
+> LOCALHOST/{user}
